@@ -1,0 +1,15 @@
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.csproj.AssemblyReference.cache
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.AssemblyInfoInputs.cache
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.AssemblyInfo.cs
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.csproj.CoreCompileInputs.cache
+d:\Scratching\Single Responsibility\bin\Debug\net7.0\Single Responsibility.exe
+d:\Scratching\Single Responsibility\bin\Debug\net7.0\Single Responsibility.deps.json
+d:\Scratching\Single Responsibility\bin\Debug\net7.0\Single Responsibility.runtimeconfig.json
+d:\Scratching\Single Responsibility\bin\Debug\net7.0\Single Responsibility.dll
+d:\Scratching\Single Responsibility\bin\Debug\net7.0\Single Responsibility.pdb
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.dll
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\refint\Single Responsibility.dll
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.pdb
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\Single Responsibility.genruntimeconfig.cache
+d:\Scratching\Single Responsibility\obj\Debug\net7.0\ref\Single Responsibility.dll
